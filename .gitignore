@@ -30,3 +30,10 @@ vscode-extension/out/
 vscode-extension/.vscode-test/
 vscode-extension/*.vsix
 vscode-extension/test-fixtures/sample-workspace/.agent/
+
+# Internal development reports
+PHASE*_REPORT.md
+
+# Resume / work-sample artifacts
+agent_platform_work_sample.pdf
+agent_platform_work_sample.tex
